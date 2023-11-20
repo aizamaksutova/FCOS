@@ -6,6 +6,10 @@ Fully convolutional one-stage object detection (FCOS) is a framework for per-pix
 This repository contains an open-source implementation of FCOS in Python with a [notebook](https://github.com/aizamaksutova/FCOS/blob/main/fcos_1%20(1).ipynb) on how to implement the FCOS architecture step-by-step and [code](https://github.com/aizamaksutova/FCOS/blob/main/fcos.py) for the base classes for the FCOS implementation.
 
 
+# Model architecture
+Architecture of FCOS which you can see implemented in the [code](https://github.com/aizamaksutova/FCOS/blob/main/fcos.py)
+
+![](./assets/fcos_arch.png)
 
 
 
